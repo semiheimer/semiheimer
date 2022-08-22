@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&theme=tokyonight&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=semiheimer&theme=cobalt&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=semiheimer&theme=tokyonight&layout=compact)
 <!--
 **semiheimer/semiheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
