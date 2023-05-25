@@ -38,6 +38,8 @@ Here are some ideas to get you started:
      <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>
-
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
+  <br/>
+  Thank you for visiting my profile
 </div>
-Thank you for visiting my profile
+
