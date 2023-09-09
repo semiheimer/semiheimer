@@ -49,24 +49,25 @@ Looking forward to connecting with fellow developers and enthusiasts!
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height="75px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height="75px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>
-   <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-   <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-   <br/>   <br/>
+     <br/>   <br/>
+   <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+     <br/>   <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-   <br/>   <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+     <br/>   <br/>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-   <br/>   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+     <br/>   <br/>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
   <br/>  <br/>  <br/>   <br/>   <br/>
