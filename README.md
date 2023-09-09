@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center">
+<div align="center" justify>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=semiheimer&theme=tokyonight&layout=compact)
  </div>
