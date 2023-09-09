@@ -37,7 +37,7 @@ My background in geophysics has honed my analytical skills and attention to deta
 
 Feel free to connect with me, and let's chat about development, geophysics, or anything else you're interested in. I'm always excited to collaborate on new projects and share knowledge!
 
-📫 You can reach me at [skutlu@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/semihkutlu06/) 
+📫 You can reach me at [e-mail](skutlu@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/semihkutlu06/) 
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
