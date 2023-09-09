@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height="75px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height="75px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>
+<code><img width="15%" height="75px" src="https://raw.githubusercontent.com/gilbarbara/logos/da96ad61116f1c9178dee389ae55254277a45eb3/logos/vitejs.svg"></code>
    <br/>   <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
