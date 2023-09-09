@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Education
 
-
-My background in geophysics has honed my analytical skills and attention to detail, which I bring into my development work to create robust and user-friendly applications.
+🎓 I hold a master's degree in Computer Engineering, which has equipped me with a strong foundation in software design, algorithms, and problem-solving.
+My background in geophysics engineering has honed my analytical skills and attention to detail, which I bring into my development work to create robust and user-friendly applications.
 
 ### Get in Touch
 
