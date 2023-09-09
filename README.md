@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <br/>
