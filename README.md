@@ -29,19 +29,19 @@ Here are some ideas to get you started:
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code>  <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- <br/>
+   <br/>   <br/>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-     <br/>
+   <br/>   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
-  <br/>  <br/>  <br/>
+  <br/>  <br/>  <br/>   <br/>   <br/>
   Thank you for visiting my profile
 </div>
 
