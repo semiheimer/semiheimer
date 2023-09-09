@@ -3,6 +3,15 @@
 👋 Hello, I'm Semih
 
 I'm a frontend developer with 1.5 years of experience in the field. My journey into software development began after several years of working as a geophysical engineer. During this transition, I discovered my passion for creating web and mobile applications.
+  ### My Expertise
+
+🚀 I specialize in:
+
+- React
+- React Native
+- JavaScript
+- Next.js
+- Typescript
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=semiheimer&theme=tokyonight&layout=compact)
@@ -21,15 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Expertise
-
-🚀 I specialize in:
-
-- React
-- React Native
-- JavaScript
-- Next.js
-- Typescript
 
 My background in geophysics has honed my analytical skills and attention to detail, which I bring into my development work to create robust and user-friendly applications.
 
