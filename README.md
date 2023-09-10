@@ -48,9 +48,9 @@ Looking forward to connecting with fellow developers and enthusiasts!
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <code><img width="15%" height="75px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <code><img width="15%" height="75px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <code><img width="15%" height="60px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <code><img width="15%" height="60px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <code><img width="15%" height="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" height="75px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
