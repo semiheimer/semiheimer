@@ -9,7 +9,7 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
 - JavaScript
 - Typescript
 - Html5
-- React
+- React.js
 - React Native
 - Next.js
 
@@ -39,7 +39,7 @@ My background in geophysics engineering has honed my analytical skills and atten
 
 Feel free to connect with me, and let's chat about development, geophysics, or anything else you're interested in. I'm always excited to collaborate on new projects and share knowledge!
 
-📫 You can reach me at [e-mail](skutlu@gmail.com) or find me on [<img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/)
+📫 You can reach me at [<img src="https://img.shields.io/badge/e-mail-green" alt="e-mail Badge"/>](skutlu@gmail.com) or find me on [<img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/)
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
