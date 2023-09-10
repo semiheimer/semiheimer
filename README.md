@@ -38,7 +38,7 @@ My background in geophysics engineering has honed my analytical skills and atten
 
 Feel free to connect with me, and let's chat about development, geophysics, or anything else you're interested in. I'm always excited to collaborate on new projects and share knowledge!
  <div align="center">
-📫 You can reach me at [e-mail](skutlu@gmail.com) or find me on [ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/) </div>
+📫 You can reach me at [e-mail](skutlu@gmail.com) or find me on [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/) </div>
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
