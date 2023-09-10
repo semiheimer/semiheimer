@@ -64,7 +64,7 @@ Looking forward to connecting with fellow developers and enthusiasts!
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/><br/>
