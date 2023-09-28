@@ -10,7 +10,7 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
 - Html5
 - React.js, Next.js
 - React Native
--PostgreSQL, NoSQL
+- PostgreSQL, NoSQL
 
 Familiar with Node.js, Express.js
 
