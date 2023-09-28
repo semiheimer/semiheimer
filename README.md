@@ -6,12 +6,13 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
   ### My Expertise
 
 🚀 I specialize in:
-- JavaScript
-- Typescript
+- JavaScript, Typescript
 - Html5
-- React.js
+- React.js, Next.js
 - React Native
-- Next.js
+-PostgreSQL, NoSQL
+
+Familiar with Node.js, Express.js
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
