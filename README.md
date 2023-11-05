@@ -6,15 +6,11 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
   ### My Expertise
 
 🚀 I specialize in:
-- JavaScript, Typescript - Html5
-- React.js, Next.js
-- React Native
-- PostgreSQL,
-- MongoDB
-- Express.js
-- Graphql
-- Node.js
-- Docker
+- Programming Languages: TypeScript, JavaScript, ES6, C#
+- Frontend: HTML, JavaScript, React.js, Next.js, React Native, SWR, TanstackQuery, Jest
+- Backend: Node.js, Express.js, GraphQL, Docker, Jest
+- Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
+- Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelise
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
