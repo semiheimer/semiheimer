@@ -72,6 +72,6 @@ Looking forward to connecting with fellow developers and enthusiasts!
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/><br/>
-   ![](https://komarev.com/ghpvc/?username=semiheimer)
+ ![](https://komarev.com/ghpvc/?username=semiheimer)
   Thank you for visiting my profile
 </div>
