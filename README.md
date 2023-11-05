@@ -6,8 +6,7 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
   ### My Expertise
 
 🚀 I specialize in:
-- JavaScript, Typescript
-- Html5
+- JavaScript, Typescript - Html5
 - React.js, Next.js
 - React Native
 - PostgreSQL,
