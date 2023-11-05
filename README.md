@@ -10,9 +10,12 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
 - Html5
 - React.js, Next.js
 - React Native
-- PostgreSQL, NoSQL
-
-Familiar with Node.js, Express.js
+- PostgreSQL,
+- MongoDB
+- Express.js
+- Graphql
+- Node.js
+- Docker
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
