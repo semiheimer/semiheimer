@@ -40,7 +40,7 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
 
 📫 You can reach me at [<img src="https://img.shields.io/badge/e-mail-green" alt="e-mail Badge"/>](skutlu@gmail.com) or find me on [<img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/)
 
-Looking forward to connecting with fellow developers and enthusiasts!  ![](https://komarev.com/ghpvc/?username=semiheimer)
+Looking forward to connecting with fellow developers and enthusiasts!  
 
 <div align="center">
  <b> Languages and Tools:  <br/>
@@ -72,6 +72,6 @@ Looking forward to connecting with fellow developers and enthusiasts!  ![](https
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/><br/>
-
-  Thank you for visiting my profile
 </div>
+  Thank you for visiting my profile
+![](https://komarev.com/ghpvc/?username=semiheimer)
