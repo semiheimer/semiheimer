@@ -11,7 +11,7 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
 - Backend: Node.js, Express.js, GraphQL, Docker, Jest
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelise
-
+![](https://komarev.com/ghpvc/?username=semiheimer)
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=semiheimer&theme=tokyonight&layout=compact)
