@@ -7,7 +7,7 @@ I'm a frontend developer with 1.5 years of experience in the field. My journey i
 
 🚀 I specialize in:
 - Programming Languages: TypeScript, JavaScript, ES6, C#
-- Frontend: HTML, JavaScript, React.js, Next.js, React Native, SWR, TanstackQuery, Jest
+- Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, TanstackQuery, Jest
 - Backend: Node.js, Express.js, GraphQL, Docker, Jest
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelise
