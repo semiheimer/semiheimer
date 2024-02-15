@@ -2,15 +2,16 @@
 
 👋 Hello, I'm Semih
 
-I'm a frontend developer with 1.5 years of experience in the field. My journey into software development began after 12 years of working as a geophysical engineer. During this transition, I discovered my passion for creating web and mobile applications.
+I'm a frontend developer with 2+ years of experience in the field. My journey into software development began after 12 years of working as a geophysical engineer. During this transition, I discovered my passion for creating web and mobile applications.
   ### My Expertise
 
 🚀 I specialize in:
 - Programming Languages: TypeScript, JavaScript, ES6, C#
-- Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, TanstackQuery, Jest
-- Backend: Node.js, Express.js, GraphQL, Docker, Jest, Kubernetes, Microservices
+- Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, Jest
+- Backend: Typescript, Node.js, Express.js, GraphQL, Docker, Jest, Kubernetes, Microservices, Authentication , Authorization
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
-- Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelise
+- Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize
+- Deployment & Orchestration: Docker, Kubernetes, Google Cloud
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
