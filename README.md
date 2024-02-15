@@ -8,7 +8,7 @@ I'm a frontend developer with 2+ years of experience in the field. My journey in
 🚀 I specialize in:
 - Programming Languages: TypeScript, JavaScript, ES6, C#
 - Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, Jest
-- Backend: Typescript, Node.js, Express.js, GraphQL, Docker, Jest, Kubernetes, Microservices, Authentication , Authorization
+- Backend: Typescript, Node.js, Express.js, GraphQL, Jest, Kubernetes, Microservices, Authentication , Authorization
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize
 - Deployment & Orchestration: Docker, Kubernetes, Google Cloud
