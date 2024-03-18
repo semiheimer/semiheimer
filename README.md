@@ -36,7 +36,7 @@ My background in geophysics engineering has honed my analytical skills and atten
 ### Get in Touch
 Feel free to connect with me, and let's chat about development, geophysics, or anything else you're interested in. I'm always excited to collaborate on new projects and share knowledge!
 📫 You can reach me at [<img src="https://img.shields.io/badge/e-mail-green" alt="e-mail Badge"/>](skutlu@gmail.com) or find me on [<img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/semihkutlu06/)
-Looking forward to connecting with fellow developers and enthusiasts!               
+https://www.semihkutlu.com Looking forward to connecting with fellow developers and enthusiasts!               
 ![](https://komarev.com/ghpvc/?username=semiheimer)
 <div align="center">
  <b> Languages and Tools:  <br/>
