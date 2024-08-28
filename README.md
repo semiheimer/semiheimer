@@ -12,6 +12,7 @@ I'm a full stack developer with 3+ years of experience in the field. My journey 
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize
 - Deployment & Orchestration: Docker, Kubernetes, Google Cloud
+- Queue Management: BullMQ, Nats Streaming
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
