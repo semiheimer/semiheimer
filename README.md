@@ -7,12 +7,12 @@ I'm a full stack developer with 3+ years of experience in the field. My journey 
 
 🚀 I specialize in:
 - Programming Languages: TypeScript, JavaScript, ES6, C#
-- Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, Jest
-- Backend: Node.js, Express.js, GraphQL, Jest, Microservices, Authentication , Authorization
+- Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, Jest, EJS
+- Backend: Node.js, Express.js, GraphQL, Jest, Microservices, Authentication , Authorization, Nodemailer
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
-- Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize
+- Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize, Elasticsearch, Kibana
 - Deployment & Orchestration: Docker, Kubernetes, Google Cloud
-- Queue Management: BullMQ, Nats Streaming
+- Queue Management & Logging: BullMQ, Nats Streaming, Amqplib, Winston
 
   <br/>   <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=semiheimer&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
