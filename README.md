@@ -8,7 +8,7 @@ I'm a full stack developer with 4+ years of experience in the field. My journey 
 🚀 I specialize in:
 - Programming Languages: TypeScript, JavaScript, ES6, C#
 - Frontend: HTML, JavaScript, React.js, Next.js, React Native, Redux, SWR, Jest, EJS
-- Backend: Node.js, Express.js, GraphQL, Jest, Microservices, Authentication , Authorization, Nodemailer
+- Backend: Node.js, Express.js, GraphQL, Jest, Microservices, HashiCorp Vault, Authentication , Authorization, Nodemailer
 - Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize, Elasticsearch, Kibana
 - Deployment & Orchestration: Docker, Kubernetes, Google Cloud
