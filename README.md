@@ -78,7 +78,6 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/><br/>
