@@ -45,7 +45,7 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <code><img width="15%" max-height="50px" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <code><img width="15%" max-height="50px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height=50px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <code><img width="15%" height=50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,11 +54,15 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
       <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
