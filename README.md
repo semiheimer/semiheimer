@@ -63,6 +63,9 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/natsio/natsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,6 +76,8 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/><br/>
     Thank you for visiting my profile
 </div>
