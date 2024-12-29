@@ -53,6 +53,7 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
     <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
