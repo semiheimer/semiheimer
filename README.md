@@ -47,7 +47,7 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" max-height="50px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" height=50px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <code><img width="15%" height=50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <code><img width="15%" height=50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" height="50px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
