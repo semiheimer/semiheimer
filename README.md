@@ -53,7 +53,7 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <code><img width="15%" height="100px" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <code><img width="15%" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,6 +80,9 @@ Feel free to connect with me, and let's chat about development, geophysics, or a
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <code><img width="15%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <code style="display: inline-block; vertical-align: middle;">
+  <img width="15%" height="100px" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" />
+</code>
 <br/><br/><br/>
     Thank you for visiting my profile
 </div>
